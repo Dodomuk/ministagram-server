@@ -24,6 +24,9 @@
       "@module/*": [
         "./src/module/*"
       ],
+      "@model/*": [
+        "./src/model/*"
+      ],
       "@service/*": [
         "./src/service/*"
       ],
