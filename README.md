@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/typescript-3178c6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/nestJs-e0234e?style=flat-square&logo=nestJs&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/sequelize-52B0e7?style=flat-square&logo=sequelize&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeORM-52B0e7?style=flat-square&logo=TypeORM&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 </p>
 

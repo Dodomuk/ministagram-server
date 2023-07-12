@@ -1,3 +1,4 @@
+import { User } from '@/entity/user/userEntity';
 import { Controller, Get } from '@nestjs/common';
 import { UserService } from '@service/user/userService';
 
@@ -6,7 +7,7 @@ export class userController {
     constructor(private readonly userService: UserService) { }
 
     @Get()
-    userHello(): string {
-        return this.userService.userHello();
+    async userHello() {
+        return await this.userService.findAll();
     }
 }
