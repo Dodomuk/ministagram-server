@@ -24,8 +24,14 @@
       "@module/*": [
         "./src/module/*"
       ],
+      "@db/*": [
+        "src/db/*"
+      ],
+      "@repository/*": [
+        "src/db/repository/*"
+      ],
       "@entity/*": [
-        "./src/entity/*"
+        "src/db/entity/*"
       ],
       "@service/*": [
         "./src/service/*"

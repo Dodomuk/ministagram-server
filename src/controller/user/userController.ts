@@ -1,4 +1,3 @@
-import { User } from '@/entity/user/userEntity';
 import { Controller, Get } from '@nestjs/common';
 import { UserService } from '@service/user/userService';
 
