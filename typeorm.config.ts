@@ -9,7 +9,7 @@ export const typeORMConfig: TypeOrmModuleOptions = {
     port: 3306,
     username: "root",
     password: "LotteCard#1",
-    database: "lottecard test",
+    database: "lottecard_test",
     entities: [User],
     synchronize: true // production모드에서는 false 변경
 }

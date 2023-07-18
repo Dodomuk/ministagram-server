@@ -39,6 +39,9 @@
       "@controller/*": [
         "./src/controller/*"
       ],
+      "@common/*": [
+        "./src/common/*"
+      ]
     }
   }
 }
